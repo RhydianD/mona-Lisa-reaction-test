@@ -20,12 +20,38 @@ Best **–**
 
 Tap only for the Mona Lisa
 
-# Test *complete*
+Assessment complete
 
-**–**Average reaction
+A very disappointed Mona Lisa
 
-**–**Best reaction
+👎
+
+**–**Avg reaction
+
+**–**Best reaction*Fluke, statistically*
 
 **–**Errors
 
 **–**Accuracy
+
+## Where you rank
+
+Reaction times of participants
+
+Shaded area: people who were faster than you. Which is nearly everyone.
+
+## Your performance over time
+
+Reaction time per hit (lower is better)
+
+## Attention span, compared
+
+## Clinical notes
+
+## Share your shame
+
+Send your result to someone. They'll do better. Everyone does.
+
+Your result card — press and hold to save
+
+Press and hold the card to save it.
